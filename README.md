@@ -1,3 +1,3 @@
 # README
-このページの右上がポートフォリオサイトです。
+このページの右上のリンク、truemato.github.io/ がポートフォリオサイトです。
 # truemato.github.io
